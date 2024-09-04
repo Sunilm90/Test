@@ -1,0 +1,3 @@
+#!/bin/sh
+# this shell script is about practice
+echo "HEllo all"
